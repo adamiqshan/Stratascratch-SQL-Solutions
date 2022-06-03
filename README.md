@@ -19,4 +19,4 @@ Solving SQL problems from stratascratch website adding my solutions to this repo
 | ID 09650 | Medium&nbsp;&nbsp; | [Find the top 10 ranked songs in 2010](./Medium/Find%20the%20top%2010%20ranked%20songs%20in%202010.sql)<br />
 | ID 09930 | Medium&nbsp;&nbsp; | [Find libraries with the highest number of total renewals](./Medium/Find%20libraries%20with%20the%20highest%20number%20of%20total%20renewals.sql)<br />
 | ID 02045 | Medium&nbsp;&nbsp; | [Days Without Hiring/Termination](./Medium/Days%20Without%20Hiring%2C%20Termination.sql)<br />
-
+| ID 10353 | Medium&nbsp;&nbsp; | [Workers With The Highest Salaries](./Medium/Workers%20With%20The%20Highest%20Salaries.sql)<br />
