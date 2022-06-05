@@ -13,5 +13,5 @@ limit (select count(1)/2 from worker)
 
 -- MS Server Soltion
 
-select top 50 percent from worker
+select top 50 percent * from worker
 
