@@ -11,6 +11,7 @@ select * from worker
 limit (select count(1)/2 from worker)
 
 
--- MS Server
+-- MS Server Soltion
 
-select top 50 percent rom worker
+select top 50 percent from worker
+
