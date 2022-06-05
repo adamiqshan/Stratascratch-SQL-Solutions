@@ -22,3 +22,4 @@ Solving SQL problems from stratascratch website adding my solutions to this repo
 | ID 10353 | Medium&nbsp;&nbsp; | [Workers With The Highest Salaries](./Medium/Workers%20With%20The%20Highest%20Salaries.sql)<br />
 | ID 09781 | Medium&nbsp;&nbsp; | [Find the rate of processed tickets for each type](./Medium/Find%20the%20rate%20of%20processed%20tickets%20for%20each%20type.sql)<br />
 | ID 09859 | Medium&nbsp;&nbsp; | [Find the first 50% records of the dataset](./Medium/Find%20the%20first%2050%25%20records%20of%20the%20dataset.sql)<br />
+| ID 10089 | Medium&nbsp;&nbsp; | [Find the number of customers without an order](./Medium/Find%20the%20number%20of%20customers%20without%20an%20order.sql)<br />
