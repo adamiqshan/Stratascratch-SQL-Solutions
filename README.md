@@ -1,6 +1,8 @@
-### SQL-STRATASCRATCH-SOLUTIONS
+### STRATASCRATCH SQL SOLVED SQL PROBLEMS
 
-Solving SQL problems from stratascratch website adding my solutions to this repo 😊
+Solving SQL problems from stratascratch website and adding my solutions to this repo 😊
+
+Feel free to clone or add star to this repo  🌱
 
 ---
 
