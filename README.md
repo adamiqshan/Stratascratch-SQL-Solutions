@@ -4,14 +4,15 @@ Solving SQL problems from stratascratch website and adding my solutions to this 
 
 Feel free to clone or add star to this repo  🌱
 
----
+
 
 #### Site link: [Stratascratch](https://platform.stratascratch.com/coding)  
 
-
 ---
 
+
 ### Contents of this repo
+
 
 
 | Ques Id&nbsp;&nbsp;&nbsp;&nbsp;| Difficulty | Problems <br />
@@ -25,3 +26,7 @@ Feel free to clone or add star to this repo  🌱
 | ID 09781 | Medium&nbsp;&nbsp; | [Find the rate of processed tickets for each type](./Medium/Find%20the%20rate%20of%20processed%20tickets%20for%20each%20type.sql)<br />
 | ID 09859 | Medium&nbsp;&nbsp; | [Find the first 50% records of the dataset](./Medium/Find%20the%20first%2050%25%20records%20of%20the%20dataset.sql)<br />
 | ID 10089 | Medium&nbsp;&nbsp; | [Find the number of customers without an order](./Medium/Find%20the%20number%20of%20customers%20without%20an%20order.sql)<br />
+| ID 09814 | Hard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Counting Instances in Text](./Hard/Counting%20Instances%20in%20Text.sql)<br />
+| ID 10284 | Hard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Popularity Percentage](./Hard/Popularity%20Percentage.sql)<br />
+
+---
