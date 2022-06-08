@@ -30,5 +30,7 @@ Feel free to clone or add star to this repo  🌱
 | ID 09744 | Medium&nbsp;&nbsp; | [The Best Artist](./Medium/The%20Best%20Artist.sql)<br />
 | ID 09814 | Hard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Counting Instances in Text](./Hard/Counting%20Instances%20in%20Text.sql)<br />
 | ID 10284 | Hard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Popularity Percentage](./Hard/Popularity%20Percentage.sql)<br />
+| ID 10173 | Medium&nbsp;&nbsp; | [Days At Number One](./Medium/Days%20At%20Number%20One.sql)<br />
+| ID 09640 | Medium&nbsp;&nbsp; | [Find the average number of searches from each user](./Medium/Find%20the%20average%20number%20of%20searches%20from%20each%20user.sql)<br />
 
 ---
