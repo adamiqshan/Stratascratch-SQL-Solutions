@@ -32,5 +32,6 @@ Feel free to clone or add star to this repo  🌱
 | ID 10284 | Hard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Popularity Percentage](./Hard/Popularity%20Percentage.sql)<br />
 | ID 10173 | Medium&nbsp;&nbsp; | [Days At Number One](./Medium/Days%20At%20Number%20One.sql)<br />
 | ID 09640 | Medium&nbsp;&nbsp; | [Find the average number of searches from each user](./Medium/Find%20the%20average%20number%20of%20searches%20from%20each%20user.sql)<br />
+| ID 09849 | Medium&nbsp;&nbsp; | [Find the duplicate records in the dataset](./Medium/Find%20the%20duplicate%20records%20in%20the%20dataset.sql)<br />
 
 ---
