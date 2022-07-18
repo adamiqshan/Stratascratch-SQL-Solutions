@@ -35,5 +35,6 @@ Feel free to clone or add star to this repo  🌱
 | ID 09849 | Medium&nbsp;&nbsp; | [Find the duplicate records in the dataset](./Medium/Find%20the%20duplicate%20records%20in%20the%20dataset.sql)<br />
 | ID 10078 | Medium&nbsp;&nbsp; | [Find matching hosts and guests with same gender and nationality](./Medium/Find%20matching%20hosts%20and%20guests%20in%20a%20way%20that%20they%20are%20both%20of%20the%20same%20gender%20and%20nationality.sql)<br />
 | ID 09849 | Medium&nbsp;&nbsp; | [Find employees in the HR department](./Medium/Find%20employees%20in%20the%20HR%20department.sql)<br />
+| ID 09892 | Medium&nbsp;&nbsp; | [Second Highest Salary](./Medium/Second%20Highest%20Salary.sql)<br />
 
 ---
